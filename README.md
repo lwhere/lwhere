@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying at Beijing University of Telecommunication and posts.
+- 🔭 I’m currently studying at Beijing University of Telecommunication and Posts.
 - 🌱 I’m currently learning housework, cook and JavaScript skills in my winter vacation.
 
 
