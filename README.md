@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying at Beijing University of Telecommunication and Posts.
-- 🌱 I’m currently interested in LLM field technology and graph neural network related research.
+- 🔭 I’m currently a master at Beijing University of Telecommunication and Posts and preparing to apply my phd program.
+- 🌱 I’m currently interested in LLM-Graph, LLM-Infra, incontext-learning interpretality and AI-Enhanced-Education Application.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwhere)](https://github.com/anuraghazra/github-readme-stats)
